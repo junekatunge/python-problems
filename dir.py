@@ -3,4 +3,4 @@ class Vehicle:
     type = "Atenza"
     owner = "june"
     
-print(dir(Vehicle))#dir() returns all the properties and methods including both the built in methods and created methods of an object
+print(dir(Vehicle))#dir() returns all the properties and methods including both the built in methods and created methods of an object b
